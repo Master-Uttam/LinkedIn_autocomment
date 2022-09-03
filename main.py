@@ -76,6 +76,5 @@ if __name__ == '__main__':
 
 ''' 
 Works fine on 80% resolution 
-It's working rn, the post button is not added yet.
-
+It's working with 75% accuracy.
 '''
